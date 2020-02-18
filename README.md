@@ -89,7 +89,7 @@ A curated list of awesome reversing resources
 
 *Practice Reverse Engineering.  Be careful with malware.*
 
-* [Crackmes.de](http://www.crackmes.de/)
+* [Crackmes.de](http://crackmes.cf/users/) (Unofficial Mirror)
 * [OSX Crackmes](https://reverse.put.as/crackmes/)
 * [ESET Challenges](http://www.joineset.com/jobs-analyst.html)
 * [Flare-on Challenges](http://flare-on.com/)
